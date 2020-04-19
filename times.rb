@@ -6,7 +6,7 @@ end
 
 
 
-puts "#{using_times} tries left before I leave it for Hermonie"
+puts "#{using_times} tries left before I leave it for Hermione"
 
 
 
