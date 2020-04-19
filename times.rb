@@ -6,6 +6,9 @@ def using_times
     puts "Wingardium Leviosa"
     spell_cast = spell_cast - 1 
     puts "#{spell_cast} tries left or I leave it for Hermione!"
+    
+  end
+  
 end
 
 
