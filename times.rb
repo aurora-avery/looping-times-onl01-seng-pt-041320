@@ -1,4 +1,4 @@
-def using_times = "25"
+def using_times = "25"/n
   7.times do
     puts "Wingardium Leviosa"
     using_times = using_times - 1 
