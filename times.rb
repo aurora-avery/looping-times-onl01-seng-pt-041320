@@ -1,12 +1,14 @@
-def using_times = "25"/n
+spell_cast = 10
+
+def using_times
   7.times do
     puts "Wingardium Leviosa"
-    using_times = using_times - 1 
+    spell_cast = spell_cast - 1 
 end
 
 
 
-puts "#{using_times} tries left before I leave it for Hermione"
+puts "#{spell_cast} tries left or I leave it for Hermione!"
 
 
 
