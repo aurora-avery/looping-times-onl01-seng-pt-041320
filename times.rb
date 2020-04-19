@@ -14,6 +14,8 @@ end
 
 
  puts "#{spell_cast} tries left or I leave it for Hermione!"
+ 
+ end
 
 
 
