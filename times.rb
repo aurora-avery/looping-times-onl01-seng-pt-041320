@@ -1,5 +1,3 @@
-
-
 def using_times
   
   spell_cast = 10
